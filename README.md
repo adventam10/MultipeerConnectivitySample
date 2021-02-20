@@ -16,4 +16,6 @@ MultipeerConnectivity使った iOS の P2P のサンプル
 ## SendImageViewController
 画像ファイルの送受信をするサンプル
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像の送受信できた🙌 <a href="https://t.co/aTIdNVzQU7">pic.twitter.com/aTIdNVzQU7</a></p>&mdash; am10 (@am103141592) <a href="https://twitter.com/am103141592/status/1363079591196127233?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像の送受信できた🙌 <a href="https://t.co/aTIdNVzQU7">pic.twitter.com/aTIdNVzQU7</a></p>&mdash; am10 (@am103141592) <a href="https://twitter.com/am103141592/status/1363079591196127233?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> 
+
+[![thumbnail](https://user-images.githubusercontent.com/34936885/108597465-8d88af80-73cc-11eb-80d2-5b4640acd869.png)](https://twitter.com/am103141592/status/1363079591196127233)
