@@ -38,8 +38,10 @@ final class BrowsingChatTableViewController: UITableViewController {
         super.viewDidDisappear(animated)
 
         // たまに切れない時があるのでここで切断
-        advertiser.stopAdvertisingPeer()
-        session.disconnect()
+        if presentedViewController == nil {
+            advertiser.stopAdvertisingPeer()
+            session.disconnect()
+        }
     }
 
     @objc private func sendMessage(_ sender: Any) {

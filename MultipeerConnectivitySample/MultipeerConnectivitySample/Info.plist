@@ -62,5 +62,13 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSLocalNetworkUsageDescription</key>
+    <string>端末の検索と接続に必要です</string>
+    <key>NSBonjourServices</key>
+    <array>
+        <string>_simple-chat._tcp</string>
+        <string>_browsing-chat._tcp</string>
+        <string>_send-image._tcp</string>
+    </array>
 </dict>
 </plist>
